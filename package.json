@@ -1,0 +1,26 @@
+{
+  "name": "simple-slack-chat",
+  "version": "1.0.0",
+  "description": "Simple Slack Web Support Chat Client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joadr/simple-slack-chat.git"
+  },
+  "keywords": [
+    "slack",
+    "simple",
+    "web",
+    "support",
+    "chat"
+  ],
+  "author": "Joadr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joadr/simple-slack-chat/issues"
+  },
+  "homepage": "https://github.com/joadr/simple-slack-chat#readme"
+}
